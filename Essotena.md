@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isotena
+- 👋 Hi, I’m @Essotena
 - 👀 I’m interested in learning how to code in almost all languages
 - 🌱 I’m currently learning PYTHON on PROGRAMMING_HUB
 - 💞️ I’m looking to collaborate on any available assistance and team work
